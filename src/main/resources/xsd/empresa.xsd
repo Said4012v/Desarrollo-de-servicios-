@@ -9,6 +9,7 @@
         </xs:complexType>
     </xs:element>
 
+
     <xs:element name="PrestamoResponse">
         <xs:complexType>
             <xs:sequence>
@@ -26,6 +27,8 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
+
+
 
     <xs:element name="VocalResponse">
         <xs:complexType>
@@ -71,6 +74,7 @@
         </xs:complexType>
     </xs:element>
 
+
     <xs:element name="BisiestoRequest">
         <xs:complexType>
             <xs:sequence>
@@ -78,6 +82,7 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
+
 
     <xs:element name="BisiestoResponse">
         <xs:complexType>
