@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jaxb:bindings version="3.0" xmlns:jaxb="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por Eclipse Implementation of JAXB v3.0.0 
+Visite https://eclipse-ee4j.github.io/jaxb-ri 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2024.06.08 a las 07:52:37 PM PET 
+
+  -->
+  <jaxb:bindings scd="x-schema::">
+    <jaxb:schemaBindings map="false">
+      <jaxb:package name="generated"/>
+    </jaxb:schemaBindings>
+    <jaxb:bindings scd="PrestamoRequest">
+      <jaxb:class ref="generated.PrestamoRequest"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="PrestamoResponse">
+      <jaxb:class ref="generated.PrestamoResponse"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="VocalRequest">
+      <jaxb:class ref="generated.VocalRequest"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="VocalResponse">
+      <jaxb:class ref="generated.VocalResponse"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="CuboCuartaRequest">
+      <jaxb:class ref="generated.CuboCuartaRequest"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="CuboCuartaResponse">
+      <jaxb:class ref="generated.CuboCuartaResponse"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="DescuentoArticulosRequest">
+      <jaxb:class ref="generated.DescuentoArticulosRequest"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="DescuentoArticulosResponse">
+      <jaxb:class ref="generated.DescuentoArticulosResponse"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="BisiestoRequest">
+      <jaxb:class ref="generated.BisiestoRequest"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="BisiestoResponse">
+      <jaxb:class ref="generated.BisiestoResponse"/>
+    </jaxb:bindings>
+  </jaxb:bindings>
+</jaxb:bindings>
+
